@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.pojo.Resource",
+      "name": "yan",
+      "type": "com.pojo.Resource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.pojo.Resource",
+      "name": "yan.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.pojo.Resource",
+      "name": "yan.sex",
+      "type": "java.lang.String"
+    }
+  ]
+}
